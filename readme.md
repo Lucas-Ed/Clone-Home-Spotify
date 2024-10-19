@@ -52,7 +52,7 @@ O Projeto Ã© um desafio de clonar a home do site da empresa Spotify, o projeto Ã
 
 ## Deploy do projeto
 
-Confira [aqui.](https://akitembembarato.netlify.app)
+Confira [aqui.](https://clone-home-spotify-three.vercel.app)
 ---
 
 
